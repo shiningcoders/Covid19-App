@@ -1,5 +1,6 @@
 
 import 'package:covid19/IconPack/ajayistic_icons_icons.dart';
+import 'package:covid19/Screens/chatbot.dart';
 import 'package:covid19/Screens/feeds.dart';
 import 'package:covid19/Screens/home.dart';
 import 'package:covid19/Screens/info.dart';
@@ -71,6 +72,7 @@ final tabs = [
   MapPage(),
   FeedsPage(),
   InfoPage(),
+  Chatbot(title: 'Watson Chatbot',),
 ];
 
   @override
@@ -103,6 +105,7 @@ final tabs = [
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a006_colours), title: Text('Home')),
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a012_gantt_chart), title: Text('Home')),
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a015_presentation), title: Text('Home')),
+                BottomNavigationBarItem(icon: Icon(AjayisticIcons.a029_chat), title: Text('Home')),
               ],
 
               onTap: (index)

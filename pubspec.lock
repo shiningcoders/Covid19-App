@@ -553,6 +553,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.8"
+  watson_assistant_v2:
+    dependency: "direct main"
+    description:
+      name: watson_assistant_v2
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1"
 sdks:
   dart: ">=2.7.0 <3.0.0"
   flutter: ">=1.12.13+hotfix.5 <2.0.0"

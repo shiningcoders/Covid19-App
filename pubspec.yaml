@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  watson_assistant_v2: ^0.0.1
   cupertino_icons: ^0.1.2
   flutter_local_notifications: ^0.7.1+1
   audioplayers: ^0.14.2
@@ -39,21 +40,10 @@ dev_dependencies:
     sdk: flutter
 
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter.
 flutter:
 
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
   assets:
     - assets/splash.flr
     - assets/meditation.flr
@@ -99,19 +89,7 @@ flutter:
     - assets/medihexa.png
     - assets/medibubble.png
     - assets/medistar.png
-  #  - images/a_dot_ham.jpeg
 
-  # An image asset can refer to one or more resolution-specific "variants", see
-  # https://flutter.dev/assets-and-images/#resolution-aware.
-
-  # For details regarding adding assets from package dependencies, see
-  # https://flutter.dev/assets-and-images/#from-packages
-
-  # To add custom fonts to your application, add a fonts section here,
-  # in this "flutter" section. Each entry in this list should have a
-  # "family" key with the font family name, and a "fonts" key with a
-  # list giving the asset and other descriptors for the font. For
-  # example:
   fonts:
     - family: AjayisticIcons
       fonts:
@@ -119,13 +97,6 @@ flutter:
     - family: Glinticons
       fonts:
         - asset: fonts/Glinticons.ttf
-  #       - asset: fonts/Schyler-Italic.ttf
-  #         style: italic
     - family: Shine
       fonts:
         - asset: fonts/Shine.ttf
-  #       - asset: fonts/TrajanPro_Bold.ttf
-  #         weight: 700
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
