@@ -48,9 +48,10 @@ This app is made using flutter, which is cross-platform native sdk, maintained b
 This file contains apk of the app with the name "Covid19.apk". You can download or clone this repo or you can download from https://bit.ly/sc-covid19
 
 
-## 
 ### 
 ### 
+###
+###
 
 ## Prerequisites
 
@@ -73,6 +74,6 @@ Follow these steps to build inside flutter.
 
 #### Welcoming all of those who wants to contribute in this project. This contribution can be counted in contribution towards fighting with COVID-19. And also Star this project if you liked.
 
-If you liked this project you can buy me a cup of coffee ☕ : httsp://ko-fi.com/shiningcoders , this will support me to contribute even more.
+###If you liked this project you can buy me a cup of coffee ☕ : https://ko-fi.com/shiningcoders , this will support me to contribute even more.
 
 ### Let's defeat COVID-19 together.
