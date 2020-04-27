@@ -39,7 +39,7 @@ lib/generated_plugin_registrant.dart
 
 Resources
 Temp
-lib\Secret
-lib\Widgets\waterTracker.dart
-lib\Screens\WaterTrackingPage.txt
-android\app\covid19.jks
+lib/Secret
+lib/Widgets/waterTracker.dart
+lib/Screens/WaterTrackingPage.txt
+android/app/covid19.jks
