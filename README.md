@@ -41,7 +41,7 @@ As of now this project is only for android. We are currently working to build th
 
 ## Technology Used
 
-This app is made using flutter, which is cross-platform native sdk, maintained by google.
+This app is made using flutter, which is cross-platform native sdk, maintained by google. And for integrating ChatBot IBM Watson is used.
 
 ## How to download App(for android only)
 
@@ -51,6 +51,9 @@ This file contains apk of the app with the name "Covid19.apk". You can download 
 ### 
 ### 
 ###
+### 
+### 
+### 
 ### 
 ## 
 
