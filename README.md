@@ -2,6 +2,15 @@
 
 Tracker, Feeds, Map, Donation, Meditation and more.
 
+## The Problem
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered novel coronavirus which becomes dangerous to all the life present on the planet, humans as well as animals. There is no official medicines available to fight this deadly disease. Due to corona virus the whole world stoped down and it become necessary for us to proove our unity and humanity by defeating this disease wholly. And by knowledge it become easiler to understand all others and to follow intelligent steps.
+
+## Solution
+
+This app gives you all possible information and tools required by any normal citizen to contribute to fight this pandemic situation at their scale.
+
+
 ## Features
 
 <ol type="1">
@@ -26,6 +35,44 @@ Tracker, Feeds, Map, Donation, Meditation and more.
 <img src='/Screenshots/Covid19-7.png' align='left' width='30%'>
 <img src='/Screenshots/Covid19-8.png' align='left' width='30%'>
 
-## How to download App(apk only)
+## Platform
+
+As of now this project is only for android. We are currently working to build this project for iOS also.
+
+## Technology Used
+
+This app is made using flutter, which is cross-platform native sdk, maintained by google.
+
+## How to download App(for android only)
 
 This file contains apk of the app with the name "Covid19.apk". You can download or clone this repo or you can download from https://bit.ly/sc-covid19
+
+
+## 
+### 
+### 
+
+## Prerequisites
+
+You need flutter installed in your machine you are building this project.
+
+## How to build this project in flutter
+
+This project is in ready to build state.
+Follow these steps to build inside flutter.
+
+<ol type="1">
+  <li>Clone this repo using "git clone https://github.com/shiningcoders/Covid19-App" command.</li>
+  <li>Get inside the project directory using "cd <Path-of-directory-where-you-cloned-this-project>/Covid19-App" command.</li>
+  <li>Get all the latest dependencies using "flutter packages get" command in your terminal.</li>
+  <li>To run the app type "flutter run" in the terminal to run this app in debug mode.</li>
+  <li>Enjoy using this app.</li>
+</ol>
+
+[Note: This app might not work in release mode because key.jks file isn't included in this project, but you can still run this in debug mode.]
+
+#### Welcoming all of those who wants to contribute in this project. This contribution can be counted in contribution towards fighting with COVID-19. And also Star this project if you liked.
+
+If you liked this project you can buy me a cup of coffee ☕ : httsp://ko-fi.com/shiningcoders , this will support me to contribute even more.
+
+### Let's defeat COVID-19 together.
