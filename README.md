@@ -14,3 +14,9 @@ Tracker, Feeds, Map, Donation, Meditation and more.
   <li>Corona virus is a deadly disease, and fears a lot of us. For fighting with this internal fear there is a no fear meditation track inside the app.</li>
   <li>To answers all your other questions there is an IBM watson powered chatbot, always there to help you.</li>
 </ol>
+
+## Screenshots
+
+<img src='https://raw.githubusercontent.com/shiningcoders/Covid19-App/Screenshots/Covid-19 (1).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (2).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (3).png' width='30%'>
