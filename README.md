@@ -17,6 +17,14 @@ Tracker, Feeds, Map, Donation, Meditation and more.
 
 ## Screenshots
 
-<img src='https://raw.githubusercontent.com/shiningcoders/Covid19-App/Screenshots/Covid-19 (1).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (1).png' align='left' width='30%'>
 <img src='/Screenshots/Covid-19 (2).png' align='left' width='30%'>
 <img src='/Screenshots/Covid-19 (3).png' width='30%'>
+
+<img src='/Screenshots/Covid-19 (4).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (5).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (6).png' width='30%'>
+
+<img src='/Screenshots/Covid-19 (7).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (8).png' align='left' width='30%'>
+<img src='/Screenshots/Covid-19 (9).png' width='30%'>
