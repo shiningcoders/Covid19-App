@@ -17,11 +17,11 @@ Tracker, Feeds, Map, Donation, Meditation and more.
 
 ## Screenshots
 
-<img src='/Screenshots/Covid-19-1.png' align='left' width='30%'>
-<img src='/Screenshots/Covid-19-2.png' align='left' width='30%'>
-<img src='/Screenshots/Covid-19-3.png' width='30%'>
-<img src='/Screenshots/Covid-19-4.png' align='left' width='30%'>
-<img src='/Screenshots/Covid-19-5.png' align='left' width='30%'>
-<img src='/Screenshots/Covid-19-6.png' width='30%'>
-<img src='/Screenshots/Covid-19-7.png' align='left' width='30%'>
-<img src='/Screenshots/Covid-19-8.png' align='right' width='30%'>
+<img src='/Screenshots/Covid19-1.png' align='left' width='30%'>
+<img src='/Screenshots/Covid19-2.png' align='left' width='30%'>
+<img src='/Screenshots/Covid19-3.png' width='30%'>
+<img src='/Screenshots/Covid19-4.png' align='left' width='30%'>
+<img src='/Screenshots/Covid19-5.png' align='left' width='30%'>
+<img src='/Screenshots/Covid19-6.png' width='30%'>
+<img src='/Screenshots/Covid19-7.png' align='left' width='30%'>
+<img src='/Screenshots/Covid19-8.png' align='right' width='30%'>
