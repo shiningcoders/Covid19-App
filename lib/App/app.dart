@@ -72,7 +72,6 @@ final tabs = [
   MapPage(),
   FeedsPage(),
   InfoPage(),
-  Chatbot(title: 'Watson Chatbot',),
 ];
 
   @override
@@ -90,7 +89,9 @@ final tabs = [
             data: ThemeData(
               splashColor: Colors.transparent,
             ),
-                      child: BottomNavigationBar(
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 25),
+                        child: BottomNavigationBar(
               elevation: 0.0,
               backgroundColor: Color(0xFFF2F2FA),
               showSelectedLabels: false,
@@ -105,9 +106,7 @@ final tabs = [
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a006_colours), title: Text('Home')),
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a012_gantt_chart), title: Text('Home')),
                 BottomNavigationBarItem(icon: Icon(AjayisticIcons.a015_presentation), title: Text('Home')),
-                BottomNavigationBarItem(icon: Icon(AjayisticIcons.a029_chat), title: Text('Home')),
               ],
-
               onTap: (index)
               {
                 setState(() {
@@ -115,6 +114,7 @@ final tabs = [
                 });
               },
             ),
+                      ),
           ),
 
           //Body: 

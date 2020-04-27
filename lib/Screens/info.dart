@@ -3,9 +3,10 @@
 import 'package:covid19/IconPack/ajayistic_icons_icons.dart';
 import 'package:covid19/IconPack/glinticons_icons.dart';
 import 'package:covid19/Screens/onboarding_page.dart';
-import 'package:covid19/Secret/admob.dart';
+import 'chatbot.dart';
 import 'package:covid19/Utils/ListAnimater.dart';
 import 'package:covid19/Utils/signIn.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:covid19/Widgets/picCard.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_share/flutter_share.dart';
@@ -466,6 +467,39 @@ class _InfoPageState extends State<InfoPage> {
                                 ),
                               ),
                             ),
+                          ),
+
+                          
+                          SizedBox(height: screenWidth * 0.07),
+
+                          //Chatbot Widget
+                          GestureDetector(
+                            onTap: (){
+                              Navigator.of(context).push(_pageJump(Chatbot()));
+                            },
+                      child: FadeIn(
+                                    6.0 , Container(
+                                                 margin: EdgeInsets.symmetric(horizontal: 20),
+                                height: screenWidth*0.3,
+                                decoration: BoxDecoration(
+                                  color: Color(0xFFd6dcf4),
+                                  borderRadius: BorderRadius.circular(radius),
+                                ),
+                                child: Center(
+                                  child: Container(
+                                    padding: EdgeInsets.all(20),
+                                    child: Column(
+                                      mainAxisAlignment: MainAxisAlignment.center,
+                                      children: [
+                                        Text('Have any question?', style: TextStyle(color: Color(0xFF707070), fontWeight: FontWeight.bold, fontSize: screenWidth*0.06),),
+                                        SizedBox(height: 10,),
+                                        Text('Ask here', style: TextStyle(color: Color(0xFF5679db), fontWeight: FontWeight.bold, fontSize: screenWidth*0.04),),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                      ),
                           ),
 
                           SizedBox(height: screenWidth * 0.05),
